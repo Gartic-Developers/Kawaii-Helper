@@ -192,7 +192,7 @@
         }
 
         interceptScripts() {
-            const roomScript = 'https://raw.githubusercontent.com/anonimbiri-IsBack/Kawaii-Helper/refs/heads/main/GameSource/room.js';
+            const roomScript = 'https://raw.githubusercontent.com/Gartic-Developers/Kawaii-Helper/refs/heads/main/GameSource/room.js';
 
             function downloadFileSync(url) {
                 const request = new XMLHttpRequest();
